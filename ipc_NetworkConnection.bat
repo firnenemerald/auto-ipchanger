@@ -16,7 +16,7 @@ ECHO Chanhee Jeong, 01 June 2013
 ECHO.
 ECHO.
 ECHO Preparing . . .
-choice /C X /T 5 /D X > nul
+choice /C X /T 1 /D X > nul
 ECHO *******************************************************************************
 ECHO.
 
